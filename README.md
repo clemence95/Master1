@@ -7,18 +7,18 @@ L'objectif est de centraliser toutes les ressources pour pouvoir les consulter f
 
 Voici la structure actuelle du dépôt :
 
-Master1/
-├── README.md # Suivi des TD/TP et notes personnelles
-├── Base_de_donnees_avancees/ # Cours Base de données avancées
-│ ├── README.md # Notes et suivi spécifique du cours
-│ ├── TD1_Optimisation_Algebrique/
-│ │ ├── td1_sql.sql # Requêtes SQL du TD1
-│ │ ├── td1_algebrique.txt # Exercices algébriques
-│ │ └── td1_arborescence.png # Schémas / arborescences
-│ └── TP/
-│ └── ... # TP futurs
-└── Autre_cours/ # Pour les autres cours du Master 1 (à compléter)
-└── ...
+- Master1/
+  - README.md — Suivi des TD/TP et notes personnelles
+  - Base_de_donnees_avancees/
+    - README.md — Notes et suivi spécifique du cours
+    - TD1_Optimisation_Algebrique/
+      - td1_sql.sql — Requêtes SQL du TD1
+      - td1_algebrique.txt — Exercices algébriques
+      - td1_arborescence.png — Schémas / arborescences
+    - TP/
+      - ... — TP futurs
+  - Autre_cours/
+    - ... — Pour les autres cours du Master 1
 
 
 ## Contenu type par cours

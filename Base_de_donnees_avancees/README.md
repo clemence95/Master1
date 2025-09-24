@@ -49,8 +49,8 @@ Les étudiants apprennent à manipuler des schémas relationnels, à optimiser d
     - td1_sql.sql — Requêtes SQL du TD1
     - td1_algebrique.txt — Exercices algébriques
     - td1_arborescence.png — Schémas / arborescences
-  - TP/
-    - ... — TP futurs
+  - TD/
+    - ... — TD futurs
 
 ## Prérequis
 

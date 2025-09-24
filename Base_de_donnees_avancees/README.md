@@ -71,10 +71,4 @@ Les étudiants apprennent à manipuler des schémas relationnels, à optimiser d
 - *Fundamentals of Database Systems* – Elmasri & Navathe
 - *Database System Concepts* – Silberschatz, Korth & Sudarshan
 
-### Livres recommandés
-- *SQL pour les Nuls* – Edition française
-- *Bases de données : Concepts et pratiques avec SQL* – Dunod
-- *Fundamentals of Database Systems* – Elmasri & Navathe
-- *Database System Concepts* – Silberschatz, Korth & Sudarshan
-
 

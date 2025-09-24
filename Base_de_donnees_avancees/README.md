@@ -1,41 +1,38 @@
 # Bases de Données Avancées - README
 
 ## Description du cours
-
-Ce cours aborde des concepts avancés en bases de données, notamment la **modélisation relationnelle**, l'**optimisation algébrique**, et les **requêtes complexes en SQL**.  
-Les étudiants apprennent à manipuler des schémas relationnels, à optimiser des expressions algébriques et à interpréter des requêtes sous différentes formes.
+Ce cours explore des concepts avancés en bases de données, en reliant la théorie de l’algèbre relationnelle à la pratique des requêtes SQL.  
+Les étudiants découvrent la modélisation relationnelle, l’optimisation algébrique, les requêtes complexes et les mécanismes internes des SGBD.
 
 ## Objectifs pédagogiques
-
 - Comprendre et manipuler des schémas relationnels complexes.
-- Traduire des requêtes SQL en expressions algébriques et les optimiser.
-- Résoudre des problèmes concrets en bases de données à l'aide de SQL et de l'algèbre relationnelle.
-- Développer des schémas clairs pour représenter les relations entre les tables.
+- Traduire et optimiser des requêtes SQL à l’aide de l’algèbre relationnelle.
+- Représenter et analyser les expressions sous forme arborescente et linéaire.
+- Appliquer les concepts avancés (transactions, index, vues, contraintes) dans des cas concrets.
 
 ## Contenu du cours
-
-### Modélisation relationnelle
+### 1. Modélisation relationnelle
 - Schémas relationnels et représentation Entité/Association.
-- Clés primaires et étrangères.
-- Types de données et contraintes.
+- Clés primaires et étrangères, contraintes d’intégrité.
+- Types de données et normalisation.
 
-### Optimisation algébrique
+### 2. Optimisation algébrique
 - Traduction des requêtes SQL en expressions algébriques.
 - Représentation linéaire et arborescente des expressions.
 - Optimisation des arbres algébriques.
 
-### Requêtes complexes
-- Requêtes SQL avancées.
-- Analyse et correction d'expressions algébriques.
-- Comparaison entre différentes formes d'expressions.
+### 3. Requêtes et aspects avancés
+- Requêtes SQL complexes (imbriquées, agrégations, jointures multiples).
+- Analyse et correction d’expressions algébriques.
+- Transactions et propriétés ACID.
+- Indexation et optimisation physique.
 
 ## Exercices réalisés
-
 - **TD1 : Optimisation algébrique**
-  - Analyse et correction d'expressions algébriques
-  - Traduction de requêtes SQL en algèbre relationnelle et optimisation
-  - Représentation des expressions sous forme arborescente et linéaire
-  - Schémas et diagrammes pour visualiser les relations entre les tables
+  - Traduction SQL → algèbre relationnelle
+  - Correction et optimisation des expressions
+  - Représentation arborescente / linéaire
+  - Diagrammes et schémas relationnels
 
 - **Exercices à venir**
   - TD2 : [à compléter]

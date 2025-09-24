@@ -15,8 +15,6 @@ Voici la structure actuelle du dépôt :
       - td1_sql.sql — Requêtes SQL du TD1
       - td1_algebrique.txt — Exercices algébriques
       - td1_arborescence.png — Schémas / arborescences
-    - TP/
-      - ... — TP futurs
   - Autre_cours/
     - ... — Pour les autres cours du Master 1
 

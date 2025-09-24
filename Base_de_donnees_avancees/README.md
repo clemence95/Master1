@@ -63,7 +63,7 @@ Les étudiants apprennent à manipuler des schémas relationnels, à optimiser d
 - [OpenClassrooms – Apprenez à utiliser SQL](https://openclassrooms.com/fr/courses/6204541-apprenez-a-utiliser-sql)
 - [SQL.sh – Référence SQL complète](https://sql.sh/)
 - [Developpez.com – Tutoriels SQL](https://sql.developpez.com/)
-- [Grafikart – Formation SQL et bases de données](# Bases de Données Avancées - README
+- [Grafikart – Formation SQL et bases de données](https://grafikart.fr/formations/apprendre-sql)
 
 ## Description du cours
 

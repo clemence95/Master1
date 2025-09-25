@@ -1,0 +1,103 @@
+Devoir – Recueil de besoins par la méthode des interviews
+
+1. Réponse à la demande
+Le client souhaite développer une application de gestion du temps et d’organisation destinée aux étudiants en informatique.
+L’objectif principal est d’apporter une solution simple et efficace pour :
+- mieux organiser leurs tâches et projets,
+- suivre le temps consacré aux différentes activités (cours, projets, révisions, loisirs),
+- optimiser leur productivité au quotidien,
+- tout en proposant une interface ergonomique et adaptée à leurs usages (smartphone, ordinateur, tablette).
+
+En résumé, la demande est de concevoir une application centralisée qui facilite la planification, le suivi et la gestion du temps, tout en restant intuitive et personnalisable.
+
+----------------------------------------------------------
+
+2. Analyse de l’existant
+
+Outils utilisés actuellement par les étudiants :
+- Sans outils : certains étudiants n’utilisent aucun support. 
+  Raisons possibles : manque d’habitude, outils perçus comme trop complexes, faible intérêt pour la planification.
+  Avantage : simplicité.
+  Inconvénient : risque d’oubli, mauvaise organisation, stress accru.
+
+- Agenda papier : méthode traditionnelle encore utilisée.
+  Avantage : rapide à noter, vue d’ensemble claire.
+  Inconvénient : aucune alerte ni rappel, pas de collaboration possible, difficile à mettre à jour.
+
+- Outils numériques populaires :
+  * Google Calendar : planification d’événements avec notifications.
+    Avantages : synchronisation multi-appareils, intégration avec Gmail.
+    Inconvénients : interface parfois trop rigide, peu adaptée au suivi du temps réel.
+  * Trello : gestion de projets collaboratifs en tableau Kanban.
+    Avantages : collaboration en groupe, organisation claire.
+    Inconvénients : manque de simplicité pour un usage individuel.
+  * Notion : organisation très flexible (notes, tâches, tableaux).
+    Avantages : forte personnalisation.
+    Inconvénients : complexité pour les nouveaux utilisateurs, pas orienté “gestion du temps”.
+
+Interprétation :
+- Les étudiants ont des pratiques variées (du “aucun outil” à des plateformes avancées).
+- Les solutions actuelles sont partielles : aucune ne combine simplement planification + suivi du temps + rappels + personnalisation + collaboration.
+- Besoin d’un outil hybride : simple pour les débutants, riche pour les étudiants organisés.
+
+----------------------------------------------------------
+
+3. Recueil du besoin
+
+Besoins fonctionnels :
+- Gestion des tâches et emploi du temps : créer, modifier, organiser les tâches avec des deadlines et catégories.
+- Suivi du temps : chronomètre intégré, statistiques visuelles sur le temps passé.
+- Notifications et rappels : alertes pour échéances, réunions, pauses programmées.
+- Personnalisation : choix de thèmes, couleurs, icônes, catégories.
+- Collaboration : partage de projets/tâches avec d’autres étudiants.
+- Intégration avec d’autres outils : synchronisation avec Google Calendar, Trello, GitHub.
+
+Besoins non fonctionnels :
+- Interface intuitive et agréable à utiliser.
+- Application accessible depuis smartphone, tablette et PC.
+- Synchronisation en temps réel entre appareils.
+- Sécurité et confidentialité des données personnelles.
+- Rapidité d’utilisation et simplicité de prise en main.
+
+Contraintes :
+- Utilisateurs ciblés : étudiants en informatique (M1 MIAGE).
+- Application adaptée aux profils variés (sans outils ou avancés).
+- Doit apporter une valeur ajoutée claire par rapport aux solutions existantes.
+
+----------------------------------------------------------
+
+4. Grille d’interview (15 questions)
+
+Contexte et organisation :
+1. Comment gérez-vous actuellement votre emploi du temps et vos tâches quotidiennes ?
+   - Utilisez-vous un outil (numérique ou papier) ?
+   - Si non : pourquoi n’en utilisez-vous pas ? (manque de besoin, complexité, habitude…)
+   - Si oui : lequel utilisez-vous ? Pourquoi ce choix ?
+2. Quels sont selon vous les avantages de cet outil ?
+3. Quels sont ses inconvénients / limites ?
+
+Suivi du temps et productivité :
+4. Souhaiteriez-vous une fonctionnalité de suivi du temps pour vos tâches (révisions, codage, projets) ? Pourquoi ?
+5. Comment aimeriez-vous visualiser ce suivi (tableaux, graphiques, statistiques simples) ?
+6. Avez-vous déjà utilisé des méthodes comme Pomodoro ou time-blocking ? L’application devrait-elle les proposer ?
+
+Notifications et rappels :
+7. Quelle importance accordez-vous aux rappels (deadlines, réunions, pauses) ?
+8. Quelle fréquence ou quel type de rappel vous conviendrait le mieux (ponctuel, régulier, personnalisable) ?
+
+Personnalisation et ergonomie :
+9. Aimeriez-vous personnaliser l’application (catégories, couleurs, thèmes, icônes) ?
+10. Selon vous, qu’est-ce qui rend une application intuitive et agréable à utiliser ?
+
+Collaboration et intégration :
+11. Travaillez-vous souvent en groupe ?
+12. Souhaiteriez-vous pouvoir partager vos projets ou tâches avec d’autres étudiants ?
+13. Avec quels outils l’application devrait-elle être compatible (Google Calendar, GitHub, Trello, etc.) ?
+
+Technologie et sécurité :
+14. Sur quels appareils planifiez-vous le plus souvent vos tâches (smartphone, ordinateur, tablette) ?
+15. La sécurité et la confidentialité des données personnelles sont-elles une priorité pour vous ? Quelles garanties attendez-vous ?
+
+----------------------------------------------------------
+
+FIN DU DOCUMENT
